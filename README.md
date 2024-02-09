@@ -4,7 +4,7 @@
 </p>
 This project involves the analysis of an Olympics dataset using MySQL. The dataset includes information about athletes, their performances, and the medals won during various Olympic events. The primary goal is to extract meaningful insights and statistics from the dataset.
 
-## Setup and Usage
+## Setup
 
 1. Create a MySQL database named `project_1`.
 <p>
