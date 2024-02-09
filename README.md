@@ -48,6 +48,3 @@ This project involves the analysis of an Olympics dataset using MySQL. The datas
 - `queries/`: Contains SQL queries for data analysis.
 - `results/`: Contains CSV files with query results.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
