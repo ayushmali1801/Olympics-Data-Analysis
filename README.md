@@ -1,5 +1,7 @@
-# Olympics Data Analysis with SQL
-
+<h1 align="center">Olympics Data Analysis with SQL</h1>
+<p align="center">
+<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/775c3d5f-9914-4e4e-b852-8dc2972b8f4d.type" width="500" height="300">
+</p>
 This project involves the analysis of an Olympics dataset using MySQL. The dataset includes information about athletes, their performances, and the medals won during various Olympic events. The primary goal is to extract meaningful insights and statistics from the dataset.
 
 ## Setup and Usage
