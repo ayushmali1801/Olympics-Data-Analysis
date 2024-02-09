@@ -29,8 +29,8 @@ This project involves the analysis of an Olympics dataset using MySQL. The datas
 ## Queries and Analysis
 
 1. **Show how many medals counts present for entire data**
-   - [SQL Query](queries/query1.sql)
-   - [Result](results/result1.csv)
+   - [SQL Query](Picture/Q1.png)
+   - [Result](Picture/R1.png)
 
 2. **Show count of unique sports present in Olympics**
    - [SQL Query](queries/query2.sql)
