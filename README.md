@@ -42,103 +42,103 @@ This project involves the analysis of an Olympics dataset using MySQL. The datas
    
    Result⬇️
 
-   ![Image](Picture/R2.png)
+   ![Image](Picture/r2.png)
    
 3. **Show how many different medals won by team India**
 
-   ![Image](Picture/Q3.png)
+   ![Image](Picture/q3.png)
    
    Result⬇️
 
-   ![Image](Picture/R3.png)
+   ![Image](Picture/r3.png)
 
 4.Show event wise medals won by India show from highest to lowest medals won in order
 
- ![Image](Picture/Q4.png)
+ ![Image](Picture/q4.png)
    
    Result⬇️
 
-   ![Image](Picture/R4.png)
+   ![Image](Picture/r4.png)
 
 5.Show event wise medals won by India in order of year
  
- ![Image](Picture/Q5.png)
+ ![Image](Picture/q5.png)
    
    Result⬇️
 
-   ![Image](Picture/R5.png)
+   ![Image](Picture/r5.png)
    
 6.Top 10 country who won maximum medals.
 
-![Image](Picture/Q6.png)
+![Image](Picture/q6.png)
    
    Result⬇️
 
-   ![Image](Picture/R6.png)
+   ![Image](Picture/r6.png)
 
 7.show top 10 countries who won gold
 
-![Image](Picture/Q7.png)
+![Image](Picture/q7.png)
    
    Result⬇️
 
-   ![Image](Picture/R7.png)
+   ![Image](Picture/r7.png)
 
 8.show in which year did United states won most gold medal
 
-![Image](Picture/Q8.png)
+![Image](Picture/q8.png)
    
    Result⬇️
 
-   ![Image](Picture/R8.png)
+   ![Image](Picture/r8.png)
 
 9.Top 10 sports in which United States has most medals.
 
-![Image](Picture/Q9.png)
+![Image](Picture/q9.png)
    
    Result⬇️
 
-   ![Image](Picture/R9.png)
+   ![Image](Picture/r9.png)
 
 10.Find top three players who won most medals along with their sports and country
 
-![Image](Picture/Q10.png)
+![Image](Picture/q10.png)
    
    Result⬇️
 
-   ![Image](Picture/R10.png)
+   ![Image](Picture/r10.png)
 
 11.Find player with most gold medals in cycling along with his country.
 
-![Image](Picture/Q11.png)
+![Image](Picture/q11.png)
    
    Result⬇️
 
-   ![Image](Picture/R11.png)
+   ![Image](Picture/r11.png)
 
 12.Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country
 
-![Image](Picture/Q12.png)
+![Image](Picture/q12.png)
    
    Result⬇️
 
-   ![Image](Picture/R12.png)
+   ![Image](Picture/r12.png)
 
 13.Find out the count of different medals of the top basketball player Teresa Edwards
 
-![Image](Picture/Q13.png)
+![Image](Picture/q13.png)
    
    Result⬇️
 
-   ![Image](Picture/R13.png)
+   ![Image](Picture/r13.png)
 
 14.Find out medals won by male, female each year
 
-![Image](Picture/Q14.png)
+![Image](Picture/q14.png)
    
    Result⬇️
 
-   ![Image](Picture/R14.png)
+   ![Image](Picture/r14.png)
    
 
 ## Insights Summary
@@ -152,14 +152,4 @@ This project involves the analysis of an Olympics dataset using MySQL. The datas
 - **Top Performers:** Highlighting top-performing athletes and their achievements provides insights into individual excellence and contributions to their respective countries' success in the Olympics.
 - **Gender Disparity:** The analysis of medals won by gender each year sheds light on gender-based trends and disparities in Olympic participation and success, offering insights into the representation and performance of male and female athletes over time.
 
-## Setup and Usage
-
-1. Set up MySQL database and create table using the provided schema.
-2. Load data from CSV file into the database.
-3. Execute SQL queries to perform analysis.
-
-## Files Included
-
-- `queries/`: Contains SQL queries for data analysis.
-- `results/`: Contains CSV files with query results.
 
