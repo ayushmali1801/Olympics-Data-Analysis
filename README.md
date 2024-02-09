@@ -7,15 +7,23 @@ This project involves the analysis of an Olympics dataset using MySQL. The datas
 ## Setup and Usage
 
 1. Create a MySQL database named `project_1`.
-   
-![Create table](https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/38db4c21-17d6-444d-9f51-0b1ee3613267)
+<p>
+<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/38db4c21-17d6-444d-9f51-0b1ee3613267.type" width="180" height="130">
+</p>
+
 
 2. Create a table named `Olympics` to store the dataset.
    
-![table2](https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/214d011f-31ec-452a-930f-2787bbdb4fcf)
+<p>
+<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/214d011f-31ec-452a-930f-2787bbdb4fcf.type" width="200" height="300">
+</p>
 
-5. Load Data from CSV file 
-6. Execute SQL queries to perform analysis.
+
+3. Load Data from CSV file
+
+<p>
+<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/7bf203d2-94c1-4443-84cf-ccfa4d916b2b.type" width="650" height="300">
+</p>
 
 
 ## Queries and Analysis
