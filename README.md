@@ -29,18 +29,117 @@ This project involves the analysis of an Olympics dataset using MySQL. The datas
 ## Queries and Analysis
 
 1. **Show how many medals counts present for entire data**
-   - [SQL Query](Picture/Q1.png)
-   - [Result](Picture/R1.png)
+
+   ![Image](Picture/Q1.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R1.png)
 
 2. **Show count of unique sports present in Olympics**
-   - [SQL Query](queries/query2.sql)
-   - [Result](results/result2.csv)
 
+   ![Image](Picture/Q2.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R2.png)
+   
 3. **Show how many different medals won by team India**
-   - [SQL Query](queries/query3.sql)
-   - [Result](results/result3.csv)
 
-...
+   ![Image](Picture/Q3.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R3.png)
+
+4.Show event wise medals won by India show from highest to lowest medals won in order
+
+ ![Image](Picture/Q4.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R4.png)
+
+5.Show event wise medals won by India in order of year
+ 
+ ![Image](Picture/Q5.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R5.png)
+   
+6.Top 10 country who won maximum medals.
+
+![Image](Picture/Q6.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R6.png)
+
+7.show top 10 countries who won gold
+
+![Image](Picture/Q7.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R7.png)
+
+8.show in which year did United states won most gold medal
+
+![Image](Picture/Q8.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R8.png)
+
+9.Top 10 sports in which United States has most medals.
+
+![Image](Picture/Q9.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R9.png)
+
+10.Find top three players who won most medals along with their sports and country
+
+![Image](Picture/Q10.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R10.png)
+
+11.Find player with most gold medals in cycling along with his country.
+
+![Image](Picture/Q11.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R11.png)
+
+12.Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country
+
+![Image](Picture/Q12.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R12.png)
+
+13.Find out the count of different medals of the top basketball player Teresa Edwards
+
+![Image](Picture/Q13.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R13.png)
+
+14.Find out medals won by male, female each year
+
+![Image](Picture/Q14.png)
+   
+   Result⬇️
+
+   ![Image](Picture/R14.png)
+   
 
 ## Insights Summary
 
