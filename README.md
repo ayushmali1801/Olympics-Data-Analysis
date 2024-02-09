@@ -52,89 +52,89 @@ This project involves the analysis of an Olympics dataset using MySQL. The datas
 
    ![Image](Picture/r3.png)
 
-4.Show event wise medals won by India show from highest to lowest medals won in order
+4.**Show event wise medals won by India show from highest to lowest medals won in order**
 
- ![Image](Picture/q4.png)
+   ![Image](Picture/q4.png)
    
    Result⬇️
 
    ![Image](Picture/r4.png)
 
-5.Show event wise medals won by India in order of year
+5.**Show event wise medals won by India in order of year**
  
- ![Image](Picture/q5.png)
+   ![Image](Picture/q5.png)
    
    Result⬇️
 
    ![Image](Picture/r5.png)
    
-6.Top 10 country who won maximum medals.
-
-![Image](Picture/q6.png)
-   
+6.**Top 10 country who won maximum medals.**
+ 
+   ![Image](Picture/q6.png)
+    
    Result⬇️
 
    ![Image](Picture/r6.png)
 
-7.show top 10 countries who won gold
+7.**show top 10 countries who won gold**
 
-![Image](Picture/q7.png)
+   ![Image](Picture/q7.png)
    
    Result⬇️
 
    ![Image](Picture/r7.png)
 
-8.show in which year did United states won most gold medal
+8.**show in which year did United states won most gold medal**
 
-![Image](Picture/q8.png)
+   ![Image](Picture/q8.png)
    
    Result⬇️
 
    ![Image](Picture/r8.png)
 
-9.Top 10 sports in which United States has most medals.
+9.**Top 10 sports in which United States has most medals.**
 
-![Image](Picture/q9.png)
+   ![Image](Picture/q9.png)
    
    Result⬇️
 
    ![Image](Picture/r9.png)
 
-10.Find top three players who won most medals along with their sports and country
+10.**Find top three players who won most medals along with their sports and country**
 
-![Image](Picture/q10.png)
+   ![Image](Picture/q10.png)
    
    Result⬇️
 
    ![Image](Picture/r10.png)
 
-11.Find player with most gold medals in cycling along with his country.
+11.**Find player with most gold medals in cycling along with his country.**
 
-![Image](Picture/q11.png)
+   ![Image](Picture/q11.png)
    
    Result⬇️
 
    ![Image](Picture/r11.png)
 
-12.Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country
+12.**Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country**
 
-![Image](Picture/q12.png)
+   ![Image](Picture/q12.png)
    
    Result⬇️
 
    ![Image](Picture/r12.png)
 
-13.Find out the count of different medals of the top basketball player Teresa Edwards
+13.**Find out the count of different medals of the top basketball player Teresa Edwards**
 
-![Image](Picture/q13.png)
+   ![Image](Picture/q13.png)
    
    Result⬇️
 
    ![Image](Picture/r13.png)
 
-14.Find out medals won by male, female each year
+14.**Find out medals won by male, female each year**
 
-![Image](Picture/q14.png)
+   ![Image](Picture/q14.png)
    
    Result⬇️
 
